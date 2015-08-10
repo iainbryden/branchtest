@@ -1,3 +1,3 @@
-[submodule "submoduletest"]
+[submodule "more"]
 	path = more
 	url = git@github.com:iainbryden/submoduletest.git
